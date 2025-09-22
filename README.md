@@ -1,4 +1,6 @@
-## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV
+## Name : K Charan Teja
+## Reg No: 212224040163
 
 
 ## AIM:
